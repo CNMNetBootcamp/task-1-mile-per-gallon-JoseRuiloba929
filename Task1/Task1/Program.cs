@@ -9,6 +9,7 @@ namespace Task1
             //setup
             Single milesTraveled=0;
             Single gallonsUsed=0;
+            //TODO: Use lowercase for local variables
             Single MPG = 0;
 
             //input
